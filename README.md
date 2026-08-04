@@ -68,7 +68,7 @@ I always focus on writing clean, scalable and maintainable code while solving re
 
 <p align="center">
 
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashikmahmud84&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashikmahmud84&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="[https://github-readme-stats.vercel.app/api?username=ashikmahmud84&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=ashikmahmud84&show_icons=true&theme=github_dark&hide_border=true)"/>
 
