@@ -68,7 +68,7 @@ I always focus on writing clean, scalable and maintainable code while solving re
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashikmahmud84&show_icons=true&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikmahmud84&show_icons=true&theme=github_dark&hide_border=true)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmahmud84&layout=compact&theme=tokyonight&hide_border=true"/>
 
